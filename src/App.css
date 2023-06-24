@@ -1,16 +1,17 @@
 form {
   display: flex;
   justify-content: space-between;
-  width: 40vw;
-  margin: 3em;
+  width: 30vw;
+  margin: 5em;
 }
 input {
-  margin: 0 1em;
+  height: 25px;
+  margin: 0 2em;
 }
 
 .watches {
-  border: 2px solid black;
-  width: 20vw;
+  border: 3px solid black;
+  width: 50vw;
   margin: 3em;
   display: flex;
   flex-wrap: wrap; 
