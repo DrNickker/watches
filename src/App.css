@@ -11,7 +11,7 @@ input {
 
 .watches {
   border: 3px solid black;
-  width: 50vw;
+  width: 30vw;
   margin: 3em;
   display: flex;
   flex-wrap: wrap; 
@@ -19,7 +19,7 @@ input {
 }
 
 .delete {
-  margin-top: 1em;
+  margin: 1em;
   width: 20%;
   color: red;
 }
